@@ -16,3 +16,6 @@ Rename any Telegram Files with Permanent Thumbnail Support
 
 
 #### For Queries and support, contact [ML_BotUpdate](https://telegram.dog/ML_BotUpdates)
+
+#### NOTE:
+<i>Code Was Not Fully Developed By Me Im Just An Editor 😅 Credits Goes To Respective Owners Of This Awesome Code🤗</i>
