@@ -7,7 +7,7 @@ class script(object):
     UPGRADE_TEXT = "CONTACT @TN57_BotzSupport"
     DOWNLOAD_START = "Give Me Some Time..."
     UPLOAD_START = "Starting to upload..."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @ML_BotUpdates **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me😇. Support 🎉 @TN57_BotZ **"
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
     DEL_THUMB = "Thumbnail cleared succesfully!"
     NO_THUMB = "No thumbnails found!"
