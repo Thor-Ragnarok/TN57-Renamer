@@ -1,5 +1,5 @@
 {
-  "name": "ML Rename Bot",
+  "name": "TN57 ename Bot",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "logo": "https://telegra.ph/file/5a5cbe60c716f93a65e23.jpg",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "success_url": "https://github.com/Thor-Ragnarok",
   "website": "https://github.com/Thor-Ragnarok",
-  "repository": "https://github.com/Thor-Ragnarok/ML-Renamer",
+  "repository": "https://github.com/Thor-Ragnarok/TN57-Renamer",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
