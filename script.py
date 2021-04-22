@@ -4,7 +4,7 @@ class script(object):
 Send me any Telegram file and choose appropriate option!
 
 <b>📌I'm From @TN57_BotZ 😇
-📌And Any Problem Report @TN57_BotzSupport ⛑️</b>"""
+📌Any Problem Report @TN57_BotzSupport ⛑️</b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = "CONTACT @TN57_BotzSupport"
